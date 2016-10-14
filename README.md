@@ -1,4 +1,4 @@
-## atom编辑器快捷键(windows7环境)
+## atom编辑器快捷键(windows)
 * Esc : 关闭输入框(在查找,替换,调出面板等情形下)
 * Ctrl + O : 打开文件
 * Ctrl + Shift + O : 打开目录
