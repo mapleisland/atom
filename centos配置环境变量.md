@@ -1,0 +1,13 @@
+编辑/etc/profile
+```
+[root@localhost ~]# vi /etc/profile
+```
+在文件尾写入
+```
+PATH=$PATH:/path/you/want/to/set
+```
+运行source命令使配置文件立刻生效
+```
+[root@localhost ~]# source /etc/profile
+```
+完成
