@@ -1,0 +1,11 @@
+- 选择与光标关联的开始和结束标签: `ctrl+shift+'`
+- 选择容器内内容: `ctrl+shift+a`
+- 选择括号内的内容: `ctrl+shift+m`
+- 上移或下移行: `ctrl+shift+↑或↓`
+- 复制行或选中项: `ctrl+shift+d`
+- 增加和减少缩进: `ctrl+shift+[或]`
+- 剪切行或选中项: `ctrl+shift+x`
+- 用标签包裹行或选中项: `alt+shift+w`
+- 移除未闭合的容器元素: `ctrl+shift+;`
+- 递增和递减: `alt+shift+↑ 或 ↓ ,ctrl+ ↑ 或 ↓`
+- 选择一个选中项的所有匹配项: `alt+f3`
