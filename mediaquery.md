@@ -1,6 +1,4 @@
----
-title: Media Query CSS尺寸参考
----
+# Media Query CSS尺寸参考
 
 ```
 /* PC宽屏样式 */

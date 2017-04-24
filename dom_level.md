@@ -1,8 +1,5 @@
----
-title: DOM级别
-categories:
-- dom
----
+# DOM级别
+
 **DOM 1级(DOM Level 1)由两个模块组成:**
 - DOM 核心 - *DOM核心规定的是如何映射基于XML的文档结构,一遍简化对文档中任意部分的访问和操作*
 - DOM HTML - *在DOM核心的基础上加以扩展,添加了针对HTML的对象和方法*

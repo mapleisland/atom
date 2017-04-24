@@ -1,6 +1,5 @@
----
-title: wordpress模板文件结构
----
+# wordpress模板文件结构
+
 - index.php
 - style.css
 

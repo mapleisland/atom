@@ -1,8 +1,6 @@
----
-title: CSS Tools - Reset CSS
-categories:
-- css
----
+# CSS Tools - Reset CSS
+
+
 原文链接[CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)  
 
 重置样式表的目标是减少浏览器在默认行高,标题的边距和字体大小等方面的不一致等.如果你有兴趣，在[2007年5月的帖子](http://meyerweb.com/eric/thoughts/2007/04/18/reset-reasoning/)中讨论了这个背后的一般推理。重置样式经常出现在CSS框架中，原来的"meyerweb reset"发现了进入[Blueprint](http://code.google.com/p/blueprintcss/)等等。  

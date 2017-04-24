@@ -1,10 +1,4 @@
----
-title: classlist - 原生js实现addClass,removeClass
-categories:
-- dom
-tags:
-- classlist
----
+# classlist - 原生js实现addClass,removeClass
 
 参考文章:[https://developer.mozilla.org/en-US/docs/Web/API/Element/classList](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 

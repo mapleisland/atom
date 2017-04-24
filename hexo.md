@@ -1,9 +1,4 @@
----
-title: Hexo 基本命令
-categories:
-- hexo
-
----
+# Hexo 基本命令
 
 ### 创建一个hexo博客
 ```bash

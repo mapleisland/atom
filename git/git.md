@@ -1,8 +1,4 @@
----
-title: git常用命令
-categories:
-- git
----
+# git常用命令
 
 添加文件
 ``` bash

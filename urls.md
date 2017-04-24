@@ -1,8 +1,6 @@
----
-title: 我的网址大全
-categories:
-- urls
----
+# 我的网址大全
+
+
 ### 计算机类
 - [github](https://github.com/)
 - [packagecontrol](https://packagecontrol.io/)
