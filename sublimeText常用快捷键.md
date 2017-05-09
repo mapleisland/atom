@@ -1,14 +1,25 @@
 # sublimeText常用快捷键
 
+- 分屏显示: `alt+shift+数字`
+- 切换第n个tab的文件: `alt+数字`
+- 顺序切换上(下)一个tab的文件: `鼠标前进后退键`
+- 跳转到第n行: `ctrl+g`
+- 跳转到方法: `ctrl+r`
+- 删除上一行换行符: `ctrl+j`
 - 选中文字元素的开始和结束标签: `ctrl+shift+'`
 - 移除父容器: `ctrl+shift+;`
 - 选择容器内内容: `ctrl+shift+a`
 - 选择(小中大)括号内内容: `ctrl+shift+m`
+- 光标在括号首尾跳转: `ctrl+m`
+- 选中单词: `ctrl+d`
+- 选中行: `ctrl+l`
+- 闭合标签: `alt+.`
 - 用html标签包裹选中项: `alt+shift+w再输入标签(默认为p)`,`ctrl+shift+g(需要emmet插件)`
 - 上移或下移行: `ctrl+shift+↑或↓`
 - 复制当前光标所在行: `ctrl+shift+d`
 - 增加和减少缩进: `ctrl+shift+[或]`
-- 剪切行或选中项: `ctrl+x`
+- 剪切当前光标所在行: `ctrl+x`
+- 删除整行: `ctrl+shift+k`
 - 选择一个选中项的所有匹配项: `alt+f3`
 - 数字++或--: `ctrl+↑ 或 ↓`
 - 块状选择: `鼠标中键或shift+鼠标右键`
