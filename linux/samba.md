@@ -23,7 +23,7 @@ sudo gedit /etc/samba/smb.conf
 在smb.conf最后添加
 ```
 [share]
-  path = /home/username/share
+  path = /path/to/sharefolder
   available = yes
   browsealbe = yes
   public = yes
